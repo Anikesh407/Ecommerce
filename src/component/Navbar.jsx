@@ -11,7 +11,10 @@ function Navbar() {
       <nav className="flex justify-between items-center h-20 max-w-6xl mx-auto ">
         <NavLink to="/">
           <div className="ml-5">
-            <img className="h-14" src="../../public/logo3.png" />
+            <img
+              className="h-14"
+              src="https://res.cloudinary.com/dieds7her/image/upload/v1746012970/logo3_scsxy5.png"
+            />
           </div>
         </NavLink>
         <div className="flex  font-medium  items-center text-slate-100 mr-5 space-x-6">
